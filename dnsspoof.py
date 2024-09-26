@@ -1,3 +1,8 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
+
 from twisted.internet import reactor
 from twisted.internet.interfaces import IReadDescriptor
 import os
